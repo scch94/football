@@ -1,0 +1,8 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.9;
+    flex-wrap: wrap;
+}
